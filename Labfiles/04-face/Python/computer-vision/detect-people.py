@@ -7,6 +7,8 @@ import time
 from matplotlib import pyplot as plt
 import numpy as np
 
+#pip install azure-ai-vision==0.15.1b1
+
 # Import namespaces
 import azure.ai.vision as sdk
 
